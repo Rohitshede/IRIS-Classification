@@ -13,3 +13,8 @@ To run the code in this repository, you'll need Python 3.x and the following lib
 * scikit-learn
 * matplotlib
 * seaborn
+
+## Methodology
+* Data Preprocessing: The dataset is loaded and preprocessed, including handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
+* Model Training: Several classification algorithms are trained on the training data, including Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest, etc.
+* Model Evaluation: The trained models are evaluated on the testing data using various metrics such as accuracy, precision, recall, and F1-score.
